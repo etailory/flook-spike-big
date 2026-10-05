@@ -1,0 +1,10 @@
+{
+  "name": "flook-spike-big",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "Bigger target for the Flook agent-reliability spike: three substantial modules.",
+  "scripts": {
+    "test": "node --test"
+  }
+}
